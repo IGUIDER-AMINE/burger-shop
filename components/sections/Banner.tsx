@@ -5,13 +5,8 @@ import Header from "../layout/Header";
 
 const Banner = () => {
   return (
-    <section id="home" className="relative">
-      <Header />
-      <Image
-        src={img1}
-        alt="burger"
-        className="w-full object-cover absolute top-0"
-      />
+    <section id="home">
+      <Image src={img1} alt="burger" className="w-full object-cover" />
     </section>
   );
 };
