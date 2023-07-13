@@ -12,3 +12,5 @@ https://burger-shop-alpha.vercel.app/
 <!-- https://react-icons.github.io/react-icons/icons?name=ai -->
 <!-- https://dribbble.com/shots/19223887-Jacks-Burger-Shop-Landing-Page -->
 <!-- https://cdn.dribbble.com/userupload/3358148/file/original-4622898fb425accb276669f05bbb5f67.png?compress=1&resize=752x -->
+
+<!-- https://www.shutterstock.com/fr/image-vector/hot-fried-chicken-burger-banner-ads-1518795014 -->
