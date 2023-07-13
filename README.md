@@ -6,7 +6,7 @@ This is my new exploration of Burrgers, Burrgers is a Burger Shop Website, You c
 
 ## Deploy on Vercel
 
-https://coffee-shop-psi-rosy.vercel.app/
+https://burger-shop-alpha.vercel.app/
 
 <!-- npx create-next-app@latest --typescript ./ -->
 <!-- https://react-icons.github.io/react-icons/icons?name=ai -->
