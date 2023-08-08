@@ -1,4 +1,4 @@
-import { img3 } from "@/public/asstes";
+import { img3, img5, img6 } from "@/public/asstes";
 import Image from "next/image";
 import React from "react";
 
@@ -13,7 +13,7 @@ const Product = () => {
       </h1>
       <div className="grid gird-cols-1 md:grid-cols-2 items-center">
         <div className="flex-1">
-          <Image src={img3} alt="Burger" />
+          <Image src={img6} alt="Burger" />
         </div>
         <div className="space-y-4 flex-1">
           <h2 className="text-3xl font-titleFont font-semibold text-[#29292A]">
@@ -55,7 +55,7 @@ const Product = () => {
       </div>
       <div className="flex items-center flex-col md:flex-row">
         <div className="flex-1">
-          <Image src={img3} alt="Burger" />
+          <Image src={img5} alt="Burger" />
         </div>
         <div className="space-y-4 flex-1">
           <h2 className="text-3xl font-titleFont font-semibold text-[#29292A]">
