@@ -5,7 +5,7 @@ import React from "react";
 const Product = () => {
   return (
     <section
-      id="Product"
+      id="Products"
       className="container mx-auto px-4 lg:px-24 space-y-8 flex flex-col items-center"
     >
       <h1 className="font-titleFont text-2xl md:text-4xl font-semibold text-[#29292A]">

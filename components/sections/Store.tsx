@@ -1,15 +1,10 @@
-import { img2 } from "@/public/asstes";
-import Image from "next/image";
-import React from "react";
-
 const Store = () => {
   return (
     <section
       id="Store"
-      className="text-[rgb(248,195,44)] relative py-16"
+      className="text-[rgb(248,195,44)] relative py-16 bg-no-repeat bg-cover"
       style={{
-        backgroundSize: "cover",
-        backgroundImage: "url('/asstes/images/img2.jpg')",
+        backgroundImage: "url('/asstes/images/img4.jpg')",
       }}
     >
       <div className="space-y-6 text-center">

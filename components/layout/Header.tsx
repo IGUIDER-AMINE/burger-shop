@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { MdOutlineClose } from "react-icons/md";
-import { BsTelephone } from "react-icons/bs";
 import { motion } from "framer-motion";
 import Link from "next/link";
 
@@ -68,7 +67,7 @@ const Header = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.5 }}
             >
-              <Link href="#About us" onClick={handleScroll}>
+              <Link href="#AboutUs" onClick={handleScroll}>
                 About us
               </Link>
             </motion.li>
@@ -146,7 +145,7 @@ const Header = () => {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.5, delay: 0.5 }}
               >
-                <Link href="#About us" onClick={handleScroll}>
+                <Link href="#AboutUs" onClick={handleScroll}>
                   About us
                 </Link>
               </motion.li>

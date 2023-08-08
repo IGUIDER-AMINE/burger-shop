@@ -23,10 +23,10 @@ const Footer = () => {
           </Link>
         </div>
         <div className="md:col-span-2 flex flex-col gap-y-4 underline">
-          <Link href="#">Home</Link>
-          <Link href="#">Product</Link>
-          <Link href="#">Store</Link>
-          <Link href="#">About Us</Link>
+          <Link href="#Home">Home</Link>
+          <Link href="#Products">Product</Link>
+          <Link href="#Store">Store</Link>
+          <Link href="#AboutUs">About Us</Link>
         </div>
       </div>
     </section>
