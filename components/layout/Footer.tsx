@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <section id="Footer" className="container mx-auto px-4">
+    <section id="Footer" className="container mx-auto px-4 pb-24">
       <div className="grid grid-cols-12">
         <div className="col-span-6">
           <h1 className="font-titleFont font-bold text-2xl text-[#363434]">
